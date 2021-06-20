@@ -8,8 +8,6 @@ const HatsPage = () => (
   </div>
 )
 
-console.log("test..1..2...3")
-
 function App() {
   return (
     <div>
